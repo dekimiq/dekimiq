@@ -1,10 +1,10 @@
 # Привет, я Никита![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)
 
 ## Краткая информация
-Я frontend разработчик, посмотреть проекты можно в закрепленных. \
+Я frontend разработчик, посмотреть проекты можно в закрепленных.
 
-<!-- ### Для более подробной информации -->
-<!-- - **[Резюме HH](https://hh.ru/resume/abc539e8ff0dd0ed0f0039ed1f376856343775)** - всегда актуально. -->
+### Для более подробной информации
+- **[Резюме HH](https://hh.ru/resume/abc539e8ff0dd0ed0f0039ed1f376856343775)** - всегда актуально.
 <!-- - **[Резюме google диск](https://docs.google.com/document/d/13VSmoakOdSel4KNeb-E-g1q4lVka63c7pAPRXVRnMRs/edit?usp=sharing)**. -->
 
 ## Контакты
